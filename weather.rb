@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'httparty'
 
 API_KEY = 'your_api_key'
